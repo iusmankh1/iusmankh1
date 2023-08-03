@@ -9,7 +9,7 @@
 
 - 👯 I built the [Singo](https://nextfly.me/)
 
-- 👨‍💻 All of my projects are available at [usmankh.com](usmankh.com)
+- 👨‍💻 All of my projects are available at [http://usmankh.com/](http://usmankh.com/)
 
 - 📝 I regularly write articles on [techblogs.me](techblogs.me)
 
@@ -17,15 +17,13 @@
 
 - 📫 How to reach me **iusmankh@gmail.com**
 
-- 📄 Know about my experiences [usmankh.com](usmankh.com)
+- 📄 Know about my experiences [http://usmankh.com/](http://usmankh.com/)
 
 - ⚡ Fun fact **I can type faster than I can talk, which is both a developer superpower and a great party trick!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iusmankh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iusmankh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iusmankh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iusmankh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muhammad usman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad usman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
