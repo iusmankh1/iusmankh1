@@ -2,7 +2,8 @@
 <h3 align="center">Full Stack Developer & Software Engineer with years of experience building and scaling web applications. Startup veteran with a keen eye for product strategy, user experience, and agile methodologies.</h3>
 
 
-<img aligh="right" alt"engineer" width= "400px" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="engineer" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <a href="https://twitter.com/iusmankh" target="blank"><img src="https://img.shields.io/twitter/follow/iusmankh?logo=twitter&style=for-the-badge" alt="iusmankh" /></a> </p>
 
